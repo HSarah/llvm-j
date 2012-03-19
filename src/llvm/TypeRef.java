@@ -2,7 +2,8 @@ package llvm;
 
 import org.bridj.Pointer;
 import org.bridj.ValuedEnum;
-import static llvm.LLVMLibrary.*;
+
+import static llvm.binding.LLVMLibrary.*;
 
 
 public class TypeRef {

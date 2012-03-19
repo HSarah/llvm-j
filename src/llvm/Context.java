@@ -1,6 +1,6 @@
 package llvm;
 
-import static llvm.LLVMLibrary.*;
+import static llvm.binding.LLVMLibrary.*;
 
 
 public class Context {

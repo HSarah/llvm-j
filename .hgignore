@@ -1,5 +1,4 @@
 syntax: glob
 *.class
 .settings/org.eclipse.jdt.core.prefs
-lib/bridj-0.6.jar
 lib/jna.jar
