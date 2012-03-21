@@ -2,3 +2,5 @@ syntax: glob
 *.class
 .settings/org.eclipse.jdt.core.prefs
 lib/jna.jar
+dist/LLVM-3.0.dll.zip
+lib/bridj-0.6.jar
